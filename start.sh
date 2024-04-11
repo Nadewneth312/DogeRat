@@ -22,7 +22,7 @@ echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░S░
 echo -e "\e[0m"
 echo "Author: shivayadv & Did-Dog"
 echo "Github: shivaya-dav & did-dog"
-echo "Telegram channel: cybershieldx"
+echo "Telegram channel: tadashy"
 echo -n "Loading "
 timeout 10s bash -c '
 while true
